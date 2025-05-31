@@ -49,8 +49,6 @@ Swagger: [http://localhost:{порт}/swagger](http://localhost:{порт}/swagg
 dotnet test Labs3Net
 ```
 
-> Переконайтесь, що вказано правильний шлях до проєкту у `CustomWebApplicationFactory`.
-
 ---
 
  SOLID-принципи
